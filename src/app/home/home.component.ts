@@ -17,14 +17,14 @@ import { Component } from '@angular/core';
 
       <div class="highlights-container">
         <div class="highlight">
-          <img src="/assets/Downtown.png" alt="image of downtown with buildings and cars" />
+          <img src="assets/Downtown.png" alt="image of downtown with buildings and cars" />
           <p>
             Discover the heart of downtown flavor at our taco stand! Fresh, vibrant, and bursting with authentic Mexican cuisine, our tacos are a downtown must-try. Where every bite tells a story of tradition and taste.
           </p>
         </div>
 
         <div class="highlight">
-          <img src="/assets/Stand.png" alt="image of a taco stand a guy standing there and a customer ordering a taco" />
+          <img src="assets/Stand.png" alt="image of a taco stand a guy standing there and a customer ordering a taco" />
           <!--give me an item description for a guy standing at the snd selling tacos to customers-->
           <p>
             Welcome to our vibrant taco stand, where every bite is a fiesta! Join us for an unforgettable culinary journey, crafted by our passionate taco artisans. Dive into the freshest flavors in town, where each taco promises a blend of tractional and innovation. Your taste adventure starts here!
@@ -32,7 +32,7 @@ import { Component } from '@angular/core';
         </div>
 
         <div class="highlight">
-          <img src="/assets/Tacos.png" alt="image of three tacos side by side" />
+          <img src="assets/Tacos.png" alt="image of three tacos side by side" />
           <p>
             Feast your eyes on our trio of tacos, a vibrant homage to authentic Mexican cuisine. Each taco is a masterpiece, carefully crafted with the freshest ingredients and bursting with flavors that transport you straight to the heart of Mexico. Perfect for sharing (or indulging solo), these tacos are a celebration of tradition, taste, and the art of good eating. Join us and savor the true essence of Mexican culinary excellence, one taco at a time.
           </p>
